@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on developing tools and methods for the seismic performance assessment of structures
 - 📫 How to reach me : mouayed.nafeh@iusspavia.it
 
+[![Moayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moayadnafeaa&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 moayadnafeaa/moayadnafeaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
