@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on developing tools and methods for the seismic performance assessment of structures
 - 📫 How to reach me : mouayed.nafeh@iusspavia.it
 - ♟️ Fancy a game of chess? let's play: https://www.chess.com/member/moayadnafeaa
+  
 [![Moayad's GitHub stats](https://github-readme-stats.vercel.app/api?username=moayadnafeaa&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
