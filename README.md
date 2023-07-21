@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Al Mouayed Bellah Nafeh
-- 👀 I’m interested in the seismic performance, risk and loss assessment of structures.
-- 🌱 I’m currently a Ph.D. Student in Understanding and Managing Extremes at the Department of Science, Technology and Society at IUSS Pavia 
-- 💞️ I’m looking to collaborate on developing tools and methods for the seismic performance assessment of structures
+- 👀 I’m interested in the seismic performance, risk and loss assessment for typology-specific and building portfolio applications.
+- 🌱 I’m currently a Ph.D. Student in Understanding and Managing Extremes at the Department of Science, Technology and Society at IUSS Pavia.
+- 💞️ I’m looking to collaborate on developing tools and methods for the seismic performance assessment of structures.
 - 📫 How to reach me : mouayed.nafeh@iusspavia.it
 - ♟️ Fancy a game of chess? let's play: https://www.chess.com/member/moayadnafeaa
   
